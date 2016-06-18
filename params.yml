@@ -1,0 +1,6 @@
+base_url: 'qa-web-test-task.s3-website.eu-central-1.amazonaws.com'
+maximum_attempts: 10000
+browser_wait_seconds: 3
+chromedriver_executable_path: '/Users/bender/Downloads/chromedriver'
+lowest_boundary: -300
+highest_boundary_margin: 300
